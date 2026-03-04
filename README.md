@@ -11,16 +11,19 @@ The test cases were executed on the following website:
       https://demowebshop.tricentis.com/ 
 This website provides a sample e-commerce platform that allows testing of user authentication features such as registration and login.
 
-•	**Modules Tested**
+## Modules Tested
 The following modules were tested:
-    -	User Registration Module
-    -	User Login Module
-    -	Test Case Coverage
+
+- User Registration Module  
+- User Login Module  
+
+## Test Case Coverage
 The test cases were designed to cover multiple types of scenarios including:
-    -	Positive scenarios (valid user actions)
-    -	Negative scenarios (invalid inputs or incorrect credentials)
-    -	Validation checks (required fields and input format validation)
-    -	Boundary value test cases
+
+- Positive scenarios (valid user actions)  
+- Negative scenarios (invalid inputs or incorrect credentials)  
+- Validation checks (required fields and input format validation)  
+- Boundary value test cases  
     
 •	**Test Execution Summary**
 
