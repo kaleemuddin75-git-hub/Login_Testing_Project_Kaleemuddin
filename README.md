@@ -57,6 +57,6 @@ This repository contains the following documents:
 - Microsoft Word (Test Documentation)
 - GitHub (Project Submission)
     
-•	**Conclusion**
+- ## Conclusion
   The Login and Registration modules were tested using multiple functional scenarios. Most test cases passed successfully, confirming that the core functionality works as expected. One minor validation issue was identified and documented for further review.
 
