@@ -23,10 +23,12 @@ The test cases were designed to cover multiple types of scenarios including:
     •	Boundary value test cases
     
 •	**Test Execution Summary**
-**Module	        Total_Test_Cases	Passed	Failed**
-**Registration**	      15	          14	     1
-**Login**	              15	          15	     0
-**Total**	              30	          29	     1
+
+| Module | Total Test Cases | Passed | Failed |
+|------|------|------|------|
+| Registration | 15 | 14 | 1 |
+| Login | 15 | 15 | 0 |
+| **Total** | **30** | **29** | **1** |
 
 •	**Defects Identified**
 One defect was identified during testing.
