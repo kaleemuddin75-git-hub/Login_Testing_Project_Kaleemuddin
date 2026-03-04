@@ -7,20 +7,20 @@ The testing process included analyzing the application behavior, writing structu
 
 •	**Application Under Test**
 The test cases were executed on the following website:
-    •	Demo Web Shop (Tricentis)
+    -	Demo Web Shop (Tricentis)
       https://demowebshop.tricentis.com/ 
 This website provides a sample e-commerce platform that allows testing of user authentication features such as registration and login.
 
 •	**Modules Tested**
 The following modules were tested:
-    •	User Registration Module
-    •	User Login Module
-    •	Test Case Coverage
+    -	User Registration Module
+    -	User Login Module
+    -	Test Case Coverage
 The test cases were designed to cover multiple types of scenarios including:
-    •	Positive scenarios (valid user actions)
-    •	Negative scenarios (invalid inputs or incorrect credentials)
-    •	Validation checks (required fields and input format validation)
-    •	Boundary value test cases
+    -	Positive scenarios (valid user actions)
+    -	Negative scenarios (invalid inputs or incorrect credentials)
+    -	Validation checks (required fields and input format validation)
+    -	Boundary value test cases
     
 •	**Test Execution Summary**
 
@@ -41,15 +41,15 @@ During testing, it was also observed that even when the “Remember me” checkb
 
 •	**Documents Included in This Repository**
 This repository contains the following documents:
-    •	Test Case Document – Detailed test cases for Login and Registration modules
-    •	Tests Execution Document- Detailed Execution of Test cases. 
-    •	Bug Report Document – Information about the defect identified during testing
-    •	Test Summary Report – Summary of the test execution and results
+    -	Test Case Document – Detailed test cases for Login and Registration modules
+    -	Tests Execution Document- Detailed Execution of Test cases. 
+    -	Bug Report Document – Information about the defect identified during testing
+    -	Test Summary Report – Summary of the test execution and results
     
 •	**Tools Used**
-    •	Manual Testing
-    •	Microsoft Word (Test Documentation)
-    •	GitHub (Project Submission)
+    -	Manual Testing
+    -	Microsoft Word (Test Documentation)
+    -	GitHub (Project Submission)
     
 •	**Conclusion**
   The Login and Registration modules were tested using multiple functional scenarios. Most test cases passed successfully, confirming that the core functionality works as expected. One minor validation issue was identified and documented for further review.
