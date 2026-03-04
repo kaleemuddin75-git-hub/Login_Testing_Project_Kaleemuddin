@@ -11,13 +11,13 @@ The test cases were executed on the following website:
       https://demowebshop.tricentis.com/ 
 This website provides a sample e-commerce platform that allows testing of user authentication features such as registration and login.
 
-## Modules Tested
+- ## Modules Tested
 The following modules were tested:
 
 - User Registration Module  
 - User Login Module  
 
-## Test Case Coverage
+- ## Test Case Coverage
 The test cases were designed to cover multiple types of scenarios including:
 
 - Positive scenarios (valid user actions)  
@@ -42,17 +42,20 @@ This issue has been documented in the Bug Report.
 •	**Observation**
 During testing, it was also observed that even when the “Remember me” checkbox was not selected, the user session remained active after refreshing or reopening the browser. Ideally, the user should be required to log in again when the option is not selected.
 
-•	**Documents Included in This Repository**
+- ## Documents Included in This Repository
+
 This repository contains the following documents:
-    -	Test Case Document – Detailed test cases for Login and Registration modules
-    -	Tests Execution Document- Detailed Execution of Test cases. 
-    -	Bug Report Document – Information about the defect identified during testing
-    -	Test Summary Report – Summary of the test execution and results
-    
-•	**Tools Used**
-    -	Manual Testing
-    -	Microsoft Word (Test Documentation)
-    -	GitHub (Project Submission)
+
+- **Test Case Document** – Detailed test cases for Login and Registration modules
+- **Test Execution Document** – Detailed execution of the test cases
+- **Bug Report Document** – Information about the defect identified during testing
+- **Test Summary Report** – Summary of the test execution and results
+
+- ## Tools Used
+
+- Manual Testing
+- Microsoft Word (Test Documentation)
+- GitHub (Project Submission)
     
 •	**Conclusion**
   The Login and Registration modules were tested using multiple functional scenarios. Most test cases passed successfully, confirming that the core functionality works as expected. One minor validation issue was identified and documented for further review.
